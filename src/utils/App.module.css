@@ -1,0 +1,17 @@
+.calculator {
+  border: 2px solid rgb(175, 19, 19);
+  width: 320px;
+  border-radius: 12px;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
+
+/* Centering the calculator */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #eaeaea;
+}
